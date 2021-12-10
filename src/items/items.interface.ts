@@ -7,3 +7,4 @@ import { Item } from "./item.interface"; //imports the baseItem
 export interface Items {
   [key: number]: Item;
 }
+
